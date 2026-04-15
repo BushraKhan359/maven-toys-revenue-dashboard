@@ -1,5 +1,3 @@
-# maven-toys-revenue-dashboard
-Interactive regional revenue dashboard built in Excel for Maven Toys — tracks MoM/YoY trends, store performance, and product-level gains &amp; losses across US regions
 # 📊 Maven Toys — Regional Revenue Dashboard
 
 > An interactive Excel dashboard built for Maven Toys' Regional Sales Managers to monitor monthly revenue performance, track YoY/MoM trends, and identify top-performing and underperforming products across regions.
